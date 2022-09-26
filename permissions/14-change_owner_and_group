@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=staff:vincent
+chown --from=vincent:staff
